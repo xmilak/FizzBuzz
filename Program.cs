@@ -9,10 +9,10 @@ namespace Fizzbuzz
         {
             for (var i = 0; i <= 100; i++)
             {
-                Console.WriteLine($"{i}): {FizzBuzzTernary(i)}");
+                Console.WriteLine($"{i}: {FizzBuzzTernary(i)}");
             }
         }
-        public string FizzBuzz(int num)
+        public static string FizzBuzz(int num)
         {
 
             if (num % 3 == 0)

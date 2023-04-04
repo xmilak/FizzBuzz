@@ -1,0 +1,30 @@
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.exe
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.deps.json
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.runtimeconfig.json
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.dll
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\bin\Debug\net6.0\Fizzbuzz.pdb
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.dll
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\refint\Fizzbuzz.dll
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.pdb
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\Fizzbuzz.genruntimeconfig.cache
+C:\Users\Tyler\Desktop\Side Projects\Fizzbuzz\obj\Debug\net6.0\ref\Fizzbuzz.dll
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\bin\Debug\net6.0\Fizzbuzz.exe
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\bin\Debug\net6.0\Fizzbuzz.deps.json
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\bin\Debug\net6.0\Fizzbuzz.runtimeconfig.json
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\bin\Debug\net6.0\Fizzbuzz.dll
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\bin\Debug\net6.0\Fizzbuzz.pdb
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.dll
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\refint\Fizzbuzz.dll
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.pdb
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\Fizzbuzz.genruntimeconfig.cache
+C:\Users\Tyler\Desktop\C#35\FizzBuzz\obj\Debug\net6.0\ref\Fizzbuzz.dll
